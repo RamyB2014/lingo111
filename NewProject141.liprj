@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="ar;es" xml:lang="ar" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="10" flattenSnippets="false" SelectedTarget="" SourceSourceControlBound="true" SourceSourceControlProviderType="Git" SourceSourceControlDatabase="git@github.com:RamyB2014/Flare101.git" SourceSourceControlDatabaseRoot="git@github.com:RamyB2014/Flare101.git" SourceProjectGuid="59f79866-1ad1-49f7-8b73-2e2f543a4cf3" SourceControlDatabaseRoot="D:\C-Drive\rbutros\Documents\My Translated Projects\NewProject141.liprjf" SourceControlDatabase="D:\C-Drive\rbutros\Documents\My Translated Projects\NewProject141.liprjf\.git" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="3cb06142-08ea-41ca-883e-ed46711145fc">
+    <ProjectFile Source="Target/ConditionsTest1.flprj" Target="Target/ConditionsTest1.flprj" />
+</LingoProject>
