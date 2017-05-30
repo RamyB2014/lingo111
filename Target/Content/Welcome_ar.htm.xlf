@@ -45,14 +45,15 @@
     <body><trans-unit
         id="1"
         restype="x-xml-h1"
-        phase-name="pretrans"><source>Welcome</source><seg-source><mrk
+        phase-name="pretrans"><source>Welcome updated</source><seg-source><mrk
             mtype="seg"
-            mid="1">Welcome</mrk></seg-source><target
+            mid="1">Welcome updated</mrk></seg-source><target
           state="needs-translation"><mrk
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:matchPercent="0"
+            MadCap:diff="New" /></target></trans-unit><trans-unit
         id="2"
         restype="x-xml-p"
         phase-name="pretrans"><source>Use this page as a front page for your knowledge base (KB). Describe what sort of information users can find in your KB here.</source><seg-source><mrk
@@ -70,7 +71,8 @@
             mtype="protected"
             mid="2"
             MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /><mrk
+            MadCap:matchPercent="0"
+            MadCap:diff="New" /><mrk
             mtype="seg"
             mid="3"
             MadCap:segmentStatus="Untranslated"
